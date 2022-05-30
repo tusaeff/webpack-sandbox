@@ -26,6 +26,5 @@ module.exports = merge(base, {
     port: 8080
   },
   devtool: "inline-source-map",
-  logLevel: "silent",
   stats: "none"
 });
